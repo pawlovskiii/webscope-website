@@ -21,7 +21,21 @@ Thirdly I focused on keeping CSS code in different modules in order to improve r
 
 ## 💿 Installation
 
-The project uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/pawlovskiii/webscope-website
+
+# Go into the repository
+$ cd webscope-website
+
+# Install dependencies
+$ npm install 
+
+# Run the app
+$ npm start
+```
 
 ## 💭 Conclusions for future projects
 
