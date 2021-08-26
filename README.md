@@ -1,8 +1,6 @@
-![screen of your app](https://via.placeholder.com/1000x300)
-
 # Webscope
 
-See the live version of [Webscope](https://devmentor.pl).
+See the live version of [Webscope](https://pawlovskiii.github.io/webscope-website/).
 
 The project was mainly about learning of usage of proper semantic HTML tags.
 Secondly I tried to apply BEM methodology, which was game changer for writing clear, maintainable and reusable CSS code.
