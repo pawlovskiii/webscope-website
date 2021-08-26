@@ -12,32 +12,27 @@ Thirdly I focused on keeping CSS code in different modules in order to improve r
 - BEM
 - Separate CSS code for each section
 
-&nbsp;
 ## 💡 Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-&nbsp;
 
 ## 💿 Installation
 
 The project uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 
-&nbsp;
 ## 💭 Conclusions for future projects
 
 In the next project I would like to apply RWD, to make it more accessible on different type of devices.
 
-&nbsp;
 
 ## 🙋‍♂️ Feel free to contact me
 
 Find me on [LinkedIn](https://www.linkedin.com/in/jakub-paw%C5%82owski-921b74216/) :)
 
 
-&nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
 
