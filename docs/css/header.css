@@ -82,6 +82,7 @@
 .container-image {
 	border-radius: 100px;
 	border: 20px solid var(--color-alfa);
+	background: var(--color-alfa);
 	transform: rotate(-10deg);
-	height: 400px;
+	height: 470px;
 }
